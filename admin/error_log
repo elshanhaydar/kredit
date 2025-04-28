@@ -1,0 +1,474 @@
+[26-Apr-2025 13:11:50 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 9
+[26-Apr-2025 13:13:16 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 9
+[26-Apr-2025 13:13:45 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 9
+[26-Apr-2025 13:13:45 Asia/Baku] PHP Warning:  error_log(/home/bakudoor/elshanhaydar.com/credit/includes/../logs/db_errors.log): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/includes/Database.php on line 110
+[26-Apr-2025 13:13:45 Asia/Baku] PHP Warning:  include(../templates/admin_header.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 47
+[26-Apr-2025 13:13:45 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin_header.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 47
+[26-Apr-2025 13:13:45 Asia/Baku] PHP Warning:  include(../templates/admin_sidebar.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 52
+[26-Apr-2025 13:13:45 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin_sidebar.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 52
+[26-Apr-2025 13:13:45 Asia/Baku] PHP Warning:  Trying to access array offset on value of type bool in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 65
+[26-Apr-2025 13:13:45 Asia/Baku] PHP Warning:  Trying to access array offset on value of type bool in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 76
+[26-Apr-2025 13:13:45 Asia/Baku] PHP Warning:  Trying to access array offset on value of type bool in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 87
+[26-Apr-2025 13:13:45 Asia/Baku] PHP Warning:  Trying to access array offset on value of type bool in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 98
+[26-Apr-2025 13:13:45 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 98
+[26-Apr-2025 13:16:43 Asia/Baku] PHP Parse error:  syntax error, unexpected token "private", expecting end of file in /home/bakudoor/elshanhaydar.com/credit/includes/Database.php on line 117
+[26-Apr-2025 13:16:44 Asia/Baku] PHP Parse error:  syntax error, unexpected token "private", expecting end of file in /home/bakudoor/elshanhaydar.com/credit/includes/Database.php on line 117
+[26-Apr-2025 13:16:44 Asia/Baku] PHP Parse error:  syntax error, unexpected token "private", expecting end of file in /home/bakudoor/elshanhaydar.com/credit/includes/Database.php on line 117
+[26-Apr-2025 13:16:44 Asia/Baku] PHP Parse error:  syntax error, unexpected token "private", expecting end of file in /home/bakudoor/elshanhaydar.com/credit/includes/Database.php on line 117
+[26-Apr-2025 13:16:44 Asia/Baku] PHP Parse error:  syntax error, unexpected token "private", expecting end of file in /home/bakudoor/elshanhaydar.com/credit/includes/Database.php on line 117
+[26-Apr-2025 13:17:10 Asia/Baku] PHP Parse error:  syntax error, unexpected token "private", expecting end of file in /home/bakudoor/elshanhaydar.com/credit/includes/Database.php on line 117
+[26-Apr-2025 13:17:11 Asia/Baku] PHP Parse error:  syntax error, unexpected token "private", expecting end of file in /home/bakudoor/elshanhaydar.com/credit/includes/Database.php on line 117
+[26-Apr-2025 13:17:11 Asia/Baku] PHP Parse error:  syntax error, unexpected token "private", expecting end of file in /home/bakudoor/elshanhaydar.com/credit/includes/Database.php on line 117
+[26-Apr-2025 13:17:11 Asia/Baku] PHP Parse error:  syntax error, unexpected token "private", expecting end of file in /home/bakudoor/elshanhaydar.com/credit/includes/Database.php on line 117
+[26-Apr-2025 13:17:11 Asia/Baku] PHP Parse error:  syntax error, unexpected token "private", expecting end of file in /home/bakudoor/elshanhaydar.com/credit/includes/Database.php on line 117
+[26-Apr-2025 13:18:46 Asia/Baku] PHP Parse error:  syntax error, unexpected token "public", expecting end of file in /home/bakudoor/elshanhaydar.com/credit/includes/Database.php on line 132
+[26-Apr-2025 13:18:47 Asia/Baku] PHP Parse error:  syntax error, unexpected token "public", expecting end of file in /home/bakudoor/elshanhaydar.com/credit/includes/Database.php on line 132
+[26-Apr-2025 13:18:47 Asia/Baku] PHP Parse error:  syntax error, unexpected token "public", expecting end of file in /home/bakudoor/elshanhaydar.com/credit/includes/Database.php on line 132
+[26-Apr-2025 13:18:47 Asia/Baku] PHP Parse error:  syntax error, unexpected token "public", expecting end of file in /home/bakudoor/elshanhaydar.com/credit/includes/Database.php on line 132
+[26-Apr-2025 13:18:47 Asia/Baku] PHP Parse error:  syntax error, unexpected token "public", expecting end of file in /home/bakudoor/elshanhaydar.com/credit/includes/Database.php on line 132
+[26-Apr-2025 13:18:47 Asia/Baku] PHP Parse error:  syntax error, unexpected token "public", expecting end of file in /home/bakudoor/elshanhaydar.com/credit/includes/Database.php on line 132
+[26-Apr-2025 13:18:55 Asia/Baku] PHP Parse error:  syntax error, unexpected token "private", expecting end of file in /home/bakudoor/elshanhaydar.com/credit/includes/Database.php on line 117
+[26-Apr-2025 13:18:56 Asia/Baku] PHP Parse error:  syntax error, unexpected token "private", expecting end of file in /home/bakudoor/elshanhaydar.com/credit/includes/Database.php on line 117
+[26-Apr-2025 13:18:56 Asia/Baku] PHP Parse error:  syntax error, unexpected token "private", expecting end of file in /home/bakudoor/elshanhaydar.com/credit/includes/Database.php on line 117
+[26-Apr-2025 13:19:51 Asia/Baku] PHP Warning:  include(../templates/admin/header.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 44
+[26-Apr-2025 13:19:51 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/header.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 44
+[26-Apr-2025 13:19:51 Asia/Baku] PHP Warning:  include(../templates/admin/sidebar.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 49
+[26-Apr-2025 13:19:51 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/sidebar.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 49
+[26-Apr-2025 13:19:51 Asia/Baku] PHP Warning:  include(../templates/admin/header.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 44
+[26-Apr-2025 13:19:51 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/header.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 44
+[26-Apr-2025 13:19:51 Asia/Baku] PHP Warning:  include(../templates/admin/sidebar.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 49
+[26-Apr-2025 13:19:51 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/sidebar.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 49
+[26-Apr-2025 13:19:52 Asia/Baku] PHP Warning:  include(../templates/admin/header.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 44
+[26-Apr-2025 13:19:52 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/header.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 44
+[26-Apr-2025 13:19:52 Asia/Baku] PHP Warning:  include(../templates/admin/sidebar.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 49
+[26-Apr-2025 13:19:52 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/sidebar.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 49
+[26-Apr-2025 13:19:52 Asia/Baku] PHP Warning:  include(../templates/admin/header.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 44
+[26-Apr-2025 13:19:52 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/header.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 44
+[26-Apr-2025 13:19:52 Asia/Baku] PHP Warning:  include(../templates/admin/sidebar.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 49
+[26-Apr-2025 13:19:52 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/sidebar.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 49
+[26-Apr-2025 13:19:54 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 7
+[26-Apr-2025 13:19:54 Asia/Baku] PHP Warning:  include(../templates/admin_header.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 76
+[26-Apr-2025 13:19:54 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin_header.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 76
+[26-Apr-2025 13:19:54 Asia/Baku] PHP Warning:  include(../templates/admin_sidebar.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 81
+[26-Apr-2025 13:19:54 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin_sidebar.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 81
+[26-Apr-2025 13:19:56 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 7
+[26-Apr-2025 13:19:56 Asia/Baku] PHP Warning:  include(../templates/admin_header.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 76
+[26-Apr-2025 13:19:56 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin_header.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 76
+[26-Apr-2025 13:19:56 Asia/Baku] PHP Warning:  include(../templates/admin_sidebar.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 81
+[26-Apr-2025 13:19:56 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin_sidebar.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 81
+[26-Apr-2025 13:20:01 Asia/Baku] PHP Warning:  include(../templates/admin/header.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 44
+[26-Apr-2025 13:20:01 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/header.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 44
+[26-Apr-2025 13:20:01 Asia/Baku] PHP Warning:  include(../templates/admin/sidebar.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 49
+[26-Apr-2025 13:20:01 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/sidebar.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 49
+[26-Apr-2025 13:20:02 Asia/Baku] PHP Warning:  include(../templates/admin/header.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 44
+[26-Apr-2025 13:20:02 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/header.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 44
+[26-Apr-2025 13:20:02 Asia/Baku] PHP Warning:  include(../templates/admin/sidebar.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 49
+[26-Apr-2025 13:20:02 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/sidebar.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 49
+[26-Apr-2025 13:20:02 Asia/Baku] PHP Warning:  include(../templates/admin/header.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 44
+[26-Apr-2025 13:20:02 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/header.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 44
+[26-Apr-2025 13:20:02 Asia/Baku] PHP Warning:  include(../templates/admin/sidebar.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 49
+[26-Apr-2025 13:20:02 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/sidebar.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 49
+[26-Apr-2025 13:20:02 Asia/Baku] PHP Warning:  include(../templates/admin/header.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 44
+[26-Apr-2025 13:20:02 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/header.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 44
+[26-Apr-2025 13:20:02 Asia/Baku] PHP Warning:  include(../templates/admin/sidebar.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 49
+[26-Apr-2025 13:20:02 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/sidebar.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 49
+[26-Apr-2025 13:20:02 Asia/Baku] PHP Warning:  include(../templates/admin/header.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 44
+[26-Apr-2025 13:20:02 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/header.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 44
+[26-Apr-2025 13:20:02 Asia/Baku] PHP Warning:  include(../templates/admin/sidebar.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 49
+[26-Apr-2025 13:20:02 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/sidebar.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 49
+[26-Apr-2025 13:20:57 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "Notification" not found in /home/bakudoor/elshanhaydar.com/credit/templates/admin/header.php:9
+Stack trace:
+#0 /home/bakudoor/elshanhaydar.com/credit/admin/index.php(44): include()
+#1 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/templates/admin/header.php on line 9
+[26-Apr-2025 13:20:57 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "Notification" not found in /home/bakudoor/elshanhaydar.com/credit/templates/admin/header.php:9
+Stack trace:
+#0 /home/bakudoor/elshanhaydar.com/credit/admin/index.php(44): include()
+#1 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/templates/admin/header.php on line 9
+[26-Apr-2025 13:20:57 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "Notification" not found in /home/bakudoor/elshanhaydar.com/credit/templates/admin/header.php:9
+Stack trace:
+#0 /home/bakudoor/elshanhaydar.com/credit/admin/index.php(44): include()
+#1 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/templates/admin/header.php on line 9
+[26-Apr-2025 13:20:57 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "Notification" not found in /home/bakudoor/elshanhaydar.com/credit/templates/admin/header.php:9
+Stack trace:
+#0 /home/bakudoor/elshanhaydar.com/credit/admin/index.php(44): include()
+#1 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/templates/admin/header.php on line 9
+[26-Apr-2025 13:20:58 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "Notification" not found in /home/bakudoor/elshanhaydar.com/credit/templates/admin/header.php:9
+Stack trace:
+#0 /home/bakudoor/elshanhaydar.com/credit/admin/index.php(44): include()
+#1 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/templates/admin/header.php on line 9
+[26-Apr-2025 13:20:58 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "Notification" not found in /home/bakudoor/elshanhaydar.com/credit/templates/admin/header.php:9
+Stack trace:
+#0 /home/bakudoor/elshanhaydar.com/credit/admin/index.php(44): include()
+#1 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/templates/admin/header.php on line 9
+[26-Apr-2025 13:21:31 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "Notification" not found in /home/bakudoor/elshanhaydar.com/credit/templates/admin/header.php:9
+Stack trace:
+#0 /home/bakudoor/elshanhaydar.com/credit/admin/index.php(44): include()
+#1 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/templates/admin/header.php on line 9
+[26-Apr-2025 13:21:32 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "Notification" not found in /home/bakudoor/elshanhaydar.com/credit/templates/admin/header.php:9
+Stack trace:
+#0 /home/bakudoor/elshanhaydar.com/credit/admin/index.php(44): include()
+#1 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/templates/admin/header.php on line 9
+[26-Apr-2025 13:21:32 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "Notification" not found in /home/bakudoor/elshanhaydar.com/credit/templates/admin/header.php:9
+Stack trace:
+#0 /home/bakudoor/elshanhaydar.com/credit/admin/index.php(44): include()
+#1 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/templates/admin/header.php on line 9
+[26-Apr-2025 13:21:32 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "Notification" not found in /home/bakudoor/elshanhaydar.com/credit/templates/admin/header.php:9
+Stack trace:
+#0 /home/bakudoor/elshanhaydar.com/credit/admin/index.php(44): include()
+#1 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/templates/admin/header.php on line 9
+[26-Apr-2025 13:21:32 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "Notification" not found in /home/bakudoor/elshanhaydar.com/credit/templates/admin/header.php:9
+Stack trace:
+#0 /home/bakudoor/elshanhaydar.com/credit/admin/index.php(44): include()
+#1 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/templates/admin/header.php on line 9
+[26-Apr-2025 13:22:06 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 7
+[26-Apr-2025 13:22:06 Asia/Baku] PHP Warning:  include(../templates/admin_header.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 50
+[26-Apr-2025 13:22:06 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin_header.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 50
+[26-Apr-2025 13:22:06 Asia/Baku] PHP Warning:  include(../templates/admin_sidebar.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 55
+[26-Apr-2025 13:22:06 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin_sidebar.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 55
+[26-Apr-2025 13:22:57 Asia/Baku] PHP Warning:  Undefined variable $customers in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 63
+[26-Apr-2025 13:22:57 Asia/Baku] PHP Warning:  foreach() argument must be of type array|object, null given in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 63
+[26-Apr-2025 13:22:57 Asia/Baku] PHP Warning:  Undefined variable $customers in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 63
+[26-Apr-2025 13:22:57 Asia/Baku] PHP Warning:  foreach() argument must be of type array|object, null given in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 63
+[26-Apr-2025 13:22:57 Asia/Baku] PHP Warning:  Undefined variable $customers in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 63
+[26-Apr-2025 13:22:57 Asia/Baku] PHP Warning:  foreach() argument must be of type array|object, null given in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 63
+[26-Apr-2025 13:22:58 Asia/Baku] PHP Warning:  Undefined variable $customers in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 63
+[26-Apr-2025 13:22:58 Asia/Baku] PHP Warning:  foreach() argument must be of type array|object, null given in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 63
+[26-Apr-2025 13:22:58 Asia/Baku] PHP Warning:  Undefined variable $customers in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 63
+[26-Apr-2025 13:22:58 Asia/Baku] PHP Warning:  foreach() argument must be of type array|object, null given in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 63
+[26-Apr-2025 13:22:58 Asia/Baku] PHP Warning:  Undefined variable $customers in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 63
+[26-Apr-2025 13:22:58 Asia/Baku] PHP Warning:  foreach() argument must be of type array|object, null given in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 63
+[26-Apr-2025 13:22:59 Asia/Baku] PHP Warning:  Undefined variable $customers in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 63
+[26-Apr-2025 13:22:59 Asia/Baku] PHP Warning:  foreach() argument must be of type array|object, null given in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 63
+[26-Apr-2025 15:17:52 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 9
+[26-Apr-2025 15:17:52 Asia/Baku] PHP Warning:  include(../templates/admin_header.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 82
+[26-Apr-2025 15:17:52 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin_header.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 82
+[26-Apr-2025 15:17:52 Asia/Baku] PHP Warning:  include(../templates/admin_sidebar.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 87
+[26-Apr-2025 15:17:52 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin_sidebar.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 87
+[26-Apr-2025 15:18:02 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 9
+[26-Apr-2025 15:18:02 Asia/Baku] PHP Warning:  include(../templates/admin_header.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 82
+[26-Apr-2025 15:18:02 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin_header.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 82
+[26-Apr-2025 15:18:02 Asia/Baku] PHP Warning:  include(../templates/admin_sidebar.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 87
+[26-Apr-2025 15:18:02 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin_sidebar.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 87
+[26-Apr-2025 15:26:29 Asia/Baku] PHP Warning:  Undefined variable $customers in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 63
+[26-Apr-2025 15:26:29 Asia/Baku] PHP Warning:  foreach() argument must be of type array|object, null given in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 63
+[26-Apr-2025 15:26:31 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 9
+[26-Apr-2025 15:26:31 Asia/Baku] PHP Warning:  include(../templates/admin_header.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 82
+[26-Apr-2025 15:26:31 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin_header.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 82
+[26-Apr-2025 15:26:31 Asia/Baku] PHP Warning:  include(../templates/admin_sidebar.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 87
+[26-Apr-2025 15:26:31 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin_sidebar.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 87
+[26-Apr-2025 15:26:33 Asia/Baku] PHP Warning:  Undefined variable $customers in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 63
+[26-Apr-2025 15:26:33 Asia/Baku] PHP Warning:  foreach() argument must be of type array|object, null given in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 63
+[26-Apr-2025 15:26:37 Asia/Baku] PHP Warning:  Undefined variable $customers in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 63
+[26-Apr-2025 15:26:37 Asia/Baku] PHP Warning:  foreach() argument must be of type array|object, null given in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 63
+[26-Apr-2025 15:26:38 Asia/Baku] PHP Warning:  Undefined variable $customers in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 63
+[26-Apr-2025 15:26:38 Asia/Baku] PHP Warning:  foreach() argument must be of type array|object, null given in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 63
+[26-Apr-2025 15:29:07 Asia/Baku] PHP Warning:  include(../templates/admin/footer.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 181
+[26-Apr-2025 15:29:07 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/footer.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 181
+[26-Apr-2025 15:29:13 Asia/Baku] PHP Warning:  include(../templates/admin/footer.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 181
+[26-Apr-2025 15:29:13 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/footer.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 181
+[26-Apr-2025 15:29:17 Asia/Baku] PHP Warning:  include(../templates/admin/footer.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 181
+[26-Apr-2025 15:29:17 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/footer.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 181
+[26-Apr-2025 15:29:22 Asia/Baku] PHP Warning:  include(../templates/admin/footer.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 181
+[26-Apr-2025 15:29:22 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/footer.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 181
+[26-Apr-2025 15:29:25 Asia/Baku] PHP Warning:  include(../templates/admin/footer.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 181
+[26-Apr-2025 15:29:25 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/footer.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 181
+[26-Apr-2025 15:29:41 Asia/Baku] PHP Warning:  include(../templates/admin/footer.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 181
+[26-Apr-2025 15:29:41 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/footer.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 181
+[26-Apr-2025 15:29:46 Asia/Baku] PHP Warning:  include(../templates/admin/footer.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 181
+[26-Apr-2025 15:29:46 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/footer.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 181
+[26-Apr-2025 15:29:56 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 9
+[26-Apr-2025 15:29:56 Asia/Baku] PHP Warning:  include(../templates/admin_header.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 82
+[26-Apr-2025 15:29:56 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin_header.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 82
+[26-Apr-2025 15:29:56 Asia/Baku] PHP Warning:  include(../templates/admin_sidebar.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 87
+[26-Apr-2025 15:29:56 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin_sidebar.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 87
+[26-Apr-2025 15:31:27 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 9
+[26-Apr-2025 15:31:34 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 9
+[26-Apr-2025 15:31:44 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 7
+[26-Apr-2025 15:31:44 Asia/Baku] PHP Warning:  include(../templates/admin_header.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 76
+[26-Apr-2025 15:31:44 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin_header.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 76
+[26-Apr-2025 15:31:44 Asia/Baku] PHP Warning:  include(../templates/admin_sidebar.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 81
+[26-Apr-2025 15:31:44 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin_sidebar.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 81
+[26-Apr-2025 15:31:44 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 178
+[26-Apr-2025 15:31:44 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 186
+[26-Apr-2025 15:31:44 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 194
+[26-Apr-2025 15:31:47 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 9
+[28-Apr-2025 11:10:33 Asia/Baku] PHP Warning:  include(../templates/admin/footer.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 181
+[28-Apr-2025 11:10:33 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/footer.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 181
+[28-Apr-2025 11:10:43 Asia/Baku] PHP Warning:  include(../templates/admin/footer.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 181
+[28-Apr-2025 11:10:43 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/footer.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 181
+[28-Apr-2025 16:32:38 Asia/Baku] PHP Warning:  include(../templates/admin/footer.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 181
+[28-Apr-2025 16:32:38 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/footer.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 181
+[28-Apr-2025 16:33:15 Asia/Baku] PHP Warning:  include(../templates/admin/footer.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 181
+[28-Apr-2025 16:33:15 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/footer.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 181
+[28-Apr-2025 16:33:32 Asia/Baku] PHP Warning:  include(../templates/admin/footer.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 181
+[28-Apr-2025 16:33:32 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/footer.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 181
+[28-Apr-2025 16:33:33 Asia/Baku] PHP Warning:  include(../templates/admin/footer.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 181
+[28-Apr-2025 16:33:33 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/footer.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 181
+[28-Apr-2025 16:36:05 Asia/Baku] PHP Warning:  include(../templates/admin/footer.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 181
+[28-Apr-2025 16:36:05 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/footer.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 181
+[28-Apr-2025 16:36:10 Asia/Baku] PHP Warning:  include(../templates/admin/footer.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/customer_view.php on line 243
+[28-Apr-2025 16:36:10 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/footer.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/customer_view.php on line 243
+[28-Apr-2025 16:36:24 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 9
+[28-Apr-2025 16:38:14 Asia/Baku] PHP Warning:  include(../templates/admin/footer.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/credit_add.php on line 253
+[28-Apr-2025 16:38:14 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/footer.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/credit_add.php on line 253
+[28-Apr-2025 16:40:13 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/credit_view.php:122
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/credit_view.php on line 122
+[28-Apr-2025 16:40:16 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 9
+[28-Apr-2025 16:40:16 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 154
+[28-Apr-2025 16:40:24 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/index.php:129
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 129
+[28-Apr-2025 16:40:26 Asia/Baku] PHP Warning:  include(../templates/admin/footer.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 181
+[28-Apr-2025 16:40:26 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/footer.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 181
+[28-Apr-2025 16:40:29 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/customer_view.php:176
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/customer_view.php on line 176
+[28-Apr-2025 16:40:34 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 9
+[28-Apr-2025 16:40:34 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 154
+[28-Apr-2025 16:40:38 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 9
+[28-Apr-2025 16:40:38 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 154
+[28-Apr-2025 16:40:39 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 9
+[28-Apr-2025 16:40:41 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 9
+[28-Apr-2025 16:40:41 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 154
+[28-Apr-2025 16:41:40 Asia/Baku] PHP Warning:  include(../templates/admin/footer.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/credit_add.php on line 253
+[28-Apr-2025 16:41:40 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/footer.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/credit_add.php on line 253
+[28-Apr-2025 16:41:45 Asia/Baku] PHP Warning:  include(../templates/admin/footer.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 181
+[28-Apr-2025 16:41:45 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/footer.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/customers.php on line 181
+[28-Apr-2025 16:43:18 Asia/Baku] PHP Warning:  include(../templates/admin/footer.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/customer_add.php on line 270
+[28-Apr-2025 16:43:18 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin/footer.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/customer_add.php on line 270
+[28-Apr-2025 16:46:04 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/index.php:129
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 129
+[28-Apr-2025 16:46:19 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/index.php:129
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 129
+[28-Apr-2025 16:46:27 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 9
+[28-Apr-2025 16:46:27 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 154
+[28-Apr-2025 16:46:31 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/index.php:129
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 129
+[28-Apr-2025 16:46:37 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/index.php:129
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 129
+[28-Apr-2025 16:46:41 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 9
+[28-Apr-2025 16:46:41 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 154
+[28-Apr-2025 16:46:48 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 9
+[28-Apr-2025 16:46:48 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 154
+[28-Apr-2025 16:49:40 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 9
+[28-Apr-2025 16:49:40 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 154
+[28-Apr-2025 16:49:42 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/index.php:129
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 129
+[28-Apr-2025 16:49:44 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 7
+[28-Apr-2025 16:49:44 Asia/Baku] PHP Warning:  include(../templates/admin_header.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 76
+[28-Apr-2025 16:49:44 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin_header.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 76
+[28-Apr-2025 16:49:44 Asia/Baku] PHP Warning:  include(../templates/admin_sidebar.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 81
+[28-Apr-2025 16:49:44 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin_sidebar.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 81
+[28-Apr-2025 16:49:50 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 7
+[28-Apr-2025 16:49:50 Asia/Baku] PHP Warning:  include(../templates/admin_header.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 76
+[28-Apr-2025 16:49:50 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin_header.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 76
+[28-Apr-2025 16:49:50 Asia/Baku] PHP Warning:  include(../templates/admin_sidebar.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 81
+[28-Apr-2025 16:49:50 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin_sidebar.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 81
+[28-Apr-2025 16:51:12 Asia/Baku] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/bakudoor/elshanhaydar.com/credit/admin/settings.php on line 94
+[28-Apr-2025 16:51:37 Asia/Baku] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/bakudoor/elshanhaydar.com/credit/admin/settings.php on line 94
+[28-Apr-2025 16:51:38 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/index.php:129
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 129
+[28-Apr-2025 16:51:40 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 9
+[28-Apr-2025 16:51:40 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 154
+[28-Apr-2025 16:51:43 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 9
+[28-Apr-2025 16:51:43 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 154
+[28-Apr-2025 16:51:44 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 9
+[28-Apr-2025 16:51:44 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 154
+[28-Apr-2025 16:51:45 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 7
+[28-Apr-2025 16:51:45 Asia/Baku] PHP Warning:  include(../templates/admin_header.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 76
+[28-Apr-2025 16:51:45 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin_header.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 76
+[28-Apr-2025 16:51:45 Asia/Baku] PHP Warning:  include(../templates/admin_sidebar.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 81
+[28-Apr-2025 16:51:45 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin_sidebar.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 81
+[28-Apr-2025 16:53:24 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/customer_view.php:176
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/customer_view.php on line 176
+[28-Apr-2025 16:53:29 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/index.php:129
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 129
+[28-Apr-2025 16:53:29 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/index.php:129
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 129
+[28-Apr-2025 16:53:30 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/index.php:129
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 129
+[28-Apr-2025 16:53:30 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/index.php:129
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 129
+[28-Apr-2025 16:53:30 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/index.php:129
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 129
+[28-Apr-2025 16:53:30 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/index.php:129
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 129
+[28-Apr-2025 16:53:34 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 9
+[28-Apr-2025 16:53:34 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 154
+[28-Apr-2025 16:53:37 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 7
+[28-Apr-2025 16:53:37 Asia/Baku] PHP Warning:  include(../templates/admin_header.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 76
+[28-Apr-2025 16:53:37 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin_header.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 76
+[28-Apr-2025 16:53:37 Asia/Baku] PHP Warning:  include(../templates/admin_sidebar.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 81
+[28-Apr-2025 16:53:37 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin_sidebar.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 81
+[28-Apr-2025 16:53:39 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 7
+[28-Apr-2025 16:53:39 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Spreadsheet" not found in /home/bakudoor/elshanhaydar.com/credit/includes/Report.php:190
+Stack trace:
+#0 /home/bakudoor/elshanhaydar.com/credit/admin/reports.php(31): Report->generateExcelReport()
+#1 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/includes/Report.php on line 190
+[28-Apr-2025 16:53:43 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 7
+[28-Apr-2025 16:53:43 Asia/Baku] PHP Warning:  include(../templates/admin_header.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 76
+[28-Apr-2025 16:53:43 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin_header.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 76
+[28-Apr-2025 16:53:43 Asia/Baku] PHP Warning:  include(../templates/admin_sidebar.php): Failed to open stream: No such file or directory in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 81
+[28-Apr-2025 16:53:43 Asia/Baku] PHP Warning:  include(): Failed opening '../templates/admin_sidebar.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bakudoor/elshanhaydar.com/credit/admin/reports.php on line 81
+[28-Apr-2025 17:01:49 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 9
+[28-Apr-2025 17:01:49 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 154
+[28-Apr-2025 17:02:48 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 12
+[28-Apr-2025 17:02:48 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php:157
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 157
+[28-Apr-2025 17:02:49 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 12
+[28-Apr-2025 17:02:49 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php:157
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 157
+[28-Apr-2025 17:02:49 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 12
+[28-Apr-2025 17:02:49 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php:157
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 157
+[28-Apr-2025 17:02:49 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 12
+[28-Apr-2025 17:02:49 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php:157
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 157
+[28-Apr-2025 17:02:49 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 12
+[28-Apr-2025 17:02:49 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php:157
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 157
+[28-Apr-2025 17:02:49 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 12
+[28-Apr-2025 17:02:49 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php:157
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 157
+[28-Apr-2025 17:03:15 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/config/config.php on line 27
+[28-Apr-2025 17:03:15 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 13
+[28-Apr-2025 17:03:15 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php:158
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 158
+[28-Apr-2025 17:03:16 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/config/config.php on line 27
+[28-Apr-2025 17:03:16 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 13
+[28-Apr-2025 17:03:16 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php:158
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 158
+[28-Apr-2025 17:03:16 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/config/config.php on line 27
+[28-Apr-2025 17:03:16 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 13
+[28-Apr-2025 17:03:16 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php:158
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 158
+[28-Apr-2025 17:03:16 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/config/config.php on line 27
+[28-Apr-2025 17:03:16 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 13
+[28-Apr-2025 17:03:16 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php:158
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 158
+[28-Apr-2025 17:03:16 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/config/config.php on line 27
+[28-Apr-2025 17:03:16 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 13
+[28-Apr-2025 17:03:16 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php:158
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 158
+[28-Apr-2025 17:03:16 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/config/config.php on line 27
+[28-Apr-2025 17:03:16 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 13
+[28-Apr-2025 17:03:16 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php:158
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 158
+[28-Apr-2025 17:03:52 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/index.php:129
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 129
+[28-Apr-2025 17:03:53 Asia/Baku] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 13
+[28-Apr-2025 17:03:53 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php:158
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/credits.php on line 158
+[28-Apr-2025 17:03:57 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusColor() in /home/bakudoor/elshanhaydar.com/credit/admin/index.php:129
+Stack trace:
+#0 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/admin/index.php on line 129

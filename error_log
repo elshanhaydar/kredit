@@ -1,0 +1,10 @@
+[26-Apr-2025 13:09:28 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "Notification" not found in /home/bakudoor/elshanhaydar.com/credit/templates/header.php:12
+Stack trace:
+#0 /home/bakudoor/elshanhaydar.com/credit/index.php(21): include()
+#1 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/templates/header.php on line 12
+[26-Apr-2025 13:10:03 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "Notification" not found in /home/bakudoor/elshanhaydar.com/credit/templates/header.php:12
+Stack trace:
+#0 /home/bakudoor/elshanhaydar.com/credit/index.php(21): include()
+#1 {main}
+  thrown in /home/bakudoor/elshanhaydar.com/credit/templates/header.php on line 12
